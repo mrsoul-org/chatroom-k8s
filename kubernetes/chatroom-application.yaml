@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
       - name: chatapp
-        image: vootlasaicharan/chatroom-application:2
+        image: vootlasaicharan/chatroom-application:3
         ports:
         - containerPort: 8080
   replicas: 1
